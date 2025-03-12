@@ -2,21 +2,9 @@
   "name": "bun-compression",
   "version": "0.0.4",
   "description": "Hono Compression plugin for Bun",
-  "author": {
-    "name": "sunneydev",
-    "url": "https://github.com/sunneydev",
-    "email": "hi@sunney.dev"
-  },
-  "contributors": [
-    {
-      "name": "Gusb3ll",
-      "url": "https://github.com/gusb3ll",
-      "email": "contact@gusbell.tech"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunneydev/bun-compression"
+    "url": "https://github.com/nischitpra/bun-compression"
   },
   "exports": {
     "bun": "./dist/index.js",
@@ -26,7 +14,7 @@
     "default": "./dist/cjs/index.js"
   },
   "types": "./src/index.ts",
-  "url": "https://github.com/sunneydev/bun-compression",
+  "url": "https://github.com/nischitpra/bun-compression",
   "keywords": [
     "hono",
     "compression"
